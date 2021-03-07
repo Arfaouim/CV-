@@ -1,4 +1,4 @@
 # CV-
 My CV
 
-![Image of Yaktocat](/blob/main/CV.pdf)
+![Image of Yaktocat](https://github.com/Arfaouim/CV-/blob/main/CV.pdf)

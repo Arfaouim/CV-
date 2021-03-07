@@ -1,4 +1,5 @@
 # CV-
 My CV
 
-[embed]https://github.com/Arfaouim/CV-/blob/main/CV.pdf[/embed]
+<embed src="https://github.com/Arfaouim/CV-/blob/main/CV.pdf" type="application/pdf" />
+
